@@ -1,0 +1,9 @@
+#calc{
+    background-color: black;
+    color: aqua;
+}
+#calc:hover{
+    background-color: aqua;
+    color: black;
+    width: 100px;
+}
